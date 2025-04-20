@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "03425af2-40fa-4b8b-9171-35246eb42bff",
+		"name": "API REST EXPRESS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21399319"
+	},
+	"item": [
+		{
+			"name": "Create Item",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
